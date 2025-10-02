@@ -1,12 +1,16 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
-  background-color: #a4f5e9;
+  background-color: lightblue;
 }
 </style>
 </head>
 <body>
 
-<h> WELCOME TO JONLO!!!</h>
+<h1>WELCOME 2 JOLNO!!!</h1>
+
+<p>Please click on a link to learn more.</p>
+
+</body>
+</html>
